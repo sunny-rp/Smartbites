@@ -1,8 +1,5 @@
-# College Dekho
+# future scope
 
-<p align="center">
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/2sMdJ3F/mnfvxwgqnubvkfmgb3octd-Free-Sample-By-Wix-SREZ.png" alt="College Dekho Logo" width="250px" border="0"></a>
-</p>
 
 
 A Static website where students can get various details such as location, fees, ranking, cutoff scores and many more about any engineering college in India. It also has a call to action section where students can send college names that hasn't been listed.
